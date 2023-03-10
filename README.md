@@ -1,4 +1,4 @@
-# VideoLow
+# LOW-VIDEO
 VideoLow is a lightweight, free tool for Windows based on [ffmpeg](https://github.com/FFmpeg/FFmpeg) that allows you to compress, transcode and trim /clip mp4 videos (and also audio files (mp3 and aac)) easily.
 This is the perfect tool if you want to create a clip from a video to send to your friends. 
 Avoid large file sizes by selecting a smaller bitrate and speed up the process by utilizing your GPU.
